@@ -1,0 +1,9 @@
+export const ada = {
+    homePage: '.page-index',
+    pageContent: '.container.page-content',
+  };
+  
+  export default {
+    ada,
+  };
+  
